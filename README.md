@@ -31,5 +31,5 @@
 <div>
   <a href="https://github.com/chr1stopherdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chr1stopherdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr1stopherdev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr1stopherdev&layout=compact&langs_count=1&theme=dark"/>
 </div>
