@@ -25,6 +25,7 @@
 ### Projects:
 
 [Weathery](t.me/WeatheryRobot) - Telegram bot for convenient viewing of weather conditions, modern add-ons are used to increase the comfort of use.
+
 [Code Metrics Analyzer](https://github.com/chr1stopherdev/Code-Metrics-Analyzer/) - A script for basic checking of the project for quality of writing, will show the number of lines, number of comments in the code and so on.
 
 ##
