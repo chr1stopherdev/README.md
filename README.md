@@ -25,11 +25,12 @@
 ### Projects:
 
 [Weathery](t.me/WeatheryRobot) - Telegram bot for convenient viewing of weather conditions, modern add-ons are used to increase the comfort of use.
+[Code Metrics Analyzer](https://github.com/chr1stopherdev/Code-Metrics-Analyzer/) - A script for basic checking of the project for quality of writing, will show the number of lines, number of comments in the code and so on.
 
 ##
 
 <div>
   <a href="https://github.com/chr1stopherdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chr1stopherdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true/"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr1stopherdev&layout=compact&langs_count=5&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chr1stopherdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr1stopherdev&layout=compact&langs_count=5&theme=dark/"/>
 </div>
